@@ -1,7 +1,7 @@
 package com.salim.java.java_variable.floatdoube;
 
 public class float_double_variable {
-    // Float
+    // Float    4 bytes == 32 bits
     float aFloat; // default Value : 0.0
     public void aFloat(){
         // simple method 123 == 123.0
@@ -13,7 +13,7 @@ public class float_double_variable {
         value2=1_2______________3.0F;
     }
 
-    // Double
+    // Double   8 bytes == 64 bits
     double aDouble; // default value : 0.0
     public void aDouble(){
         // simple method 123 == 123.0
